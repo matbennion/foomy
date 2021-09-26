@@ -11,6 +11,7 @@ import time
 import winsound
 from config import * 
 from grid import *
+import copy
 
 
 doExit = False
